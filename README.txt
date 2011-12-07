@@ -13,3 +13,10 @@ C、java等编译型语言需要自己先编译
 归功与V8引擎，node.js表现很出色，测试结果合情理，但是也会出人意料。
 
 困，碎觉去鸟。。。
+
+
+PS: 我这里增加的 forth的实现 fib.4th
+
+在我台式机上跑速度惊人，不过需要请原作者在原机器上跑一次
+
+考虑到原作者的机器是mac 可以在这里下载 forth的环境 http://www.forth.com/swiftforth/version.html
